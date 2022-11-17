@@ -1,8 +1,8 @@
 ### Hi there 👋 I'a Tatiana Valanitskaya
  
  
- 
- [![codewars](https://www.codewars.com/users/username/badges/small)]([https://www.codewars.com/users/TiaanaV)
+
+ ### [![codewars](https://www.codewars.com/users/username/badges/small)]([https://www.codewars.com/users/TiaanaV)
 
 <!--
 **TiaanaV/TiaanaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

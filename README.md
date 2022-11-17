@@ -1,5 +1,5 @@
-### Hi there 👋 I'a Tatiana Valanitskaya
- 
+### Hi there 👋 I'am Tatiana Valanitskaya
+Junior frontend developer 
  
 <!-- 
  [![codewars](https://www.codewars.com/users/username/badges/small)]([https://www.codewars.com/users/TiaanaV) -->

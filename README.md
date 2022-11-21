@@ -1,6 +1,8 @@
 ### Hi there 👋 I'am Tatiana Valanitskaya
 Junior frontend developer 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiaanaV&layout=compact)](https://github.com/TiaanaV/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TiaanaV&theme=calm&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!-- 
  [![codewars](https://www.codewars.com/users/username/badges/small)]([https://www.codewars.com/users/TiaanaV) -->

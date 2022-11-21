@@ -1,4 +1,4 @@
-### Hi there 👋 I'am Tatiana Valanitskaya
+### Hi there 👋 I'm Tatiana Valanitskaya
 Junior frontend developer 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiaanaV&layout=compact)](https://github.com/TiaanaV/github-readme-stats)

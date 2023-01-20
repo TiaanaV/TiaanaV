@@ -4,6 +4,9 @@ Junior frontend developer
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TiaanaV&theme=calm&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
  [![codewars](https://www.codewars.com/users/TiaanaV/badges/small)]([https://www.codewars.com/users/TiaanaV)
 
 <!--
